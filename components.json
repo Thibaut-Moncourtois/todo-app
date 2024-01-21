@@ -1,0 +1,17 @@
+{
+  "$schema": "https://ui.shadcn.com/schema.json",
+  "style": "default",
+  "rsc": false,
+  "tsx": false,
+  "tailwind": {
+    "config": "'/Users/thibautmoncourtois/Documents/projects/todo-app/tailwind.config.js'",
+    "css": "'/Users/thibautmoncourtois/Documents/projects/todo-app/src/index.css'",
+    "baseColor": "neutral",
+    "cssVariables": true,
+    "prefix": ""
+  },
+  "aliases": {
+    "components": "@/components",
+    "utils": "@/lib/utils"
+  }
+}

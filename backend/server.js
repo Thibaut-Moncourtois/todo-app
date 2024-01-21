@@ -1,6 +1,6 @@
 import express from "express";
 import sqlite3 from "sqlite3";
-import tasksRouter from "./src/routes/tasksRouter";
+import tasksRouter from "./src/routes/tasksRouter.js";
 const app = express();
 const port = 4500;
 
